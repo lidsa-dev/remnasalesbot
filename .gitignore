@@ -1,2 +1,11 @@
+# Environment
 .env
 .venv/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Logs & user-related things
+logs/
+data/
